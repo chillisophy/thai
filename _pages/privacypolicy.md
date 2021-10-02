@@ -5,56 +5,81 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+October 2 2021
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This document "Privacy Policy" (hereinafter referred to as the "Policy") represents the rules of use / indicate the owner of the site / (hereinafter "we" and / or "Administration") data of Internet users (hereinafter "you" and / or " User ") collected using the site / / (hereinafter referred to as the" Site ").
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 1. Processed data
+1.1. We collect your personal data using the Site.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+1.2. All data collected on the Site is provided and received in an impersonal form (hereinafter - "Anonymized data").
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+1.3. Anonymized data includes the following information that does not identify you:
 
-<br>
+1.3.1. Information that you provide about yourself on your own using online forms and software modules of the Site, including name or phone number and / or email address.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+1.3.2. Data that is transmitted in anonymized form in automatic mode, depending on the settings of the software you are using.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+1.4. The administration has the right to establish requirements for the composition of the Anonymized User data that are collected using the Site.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+1.5. If certain information is not marked as required, its provision or disclosure is carried out by the User at his own discretion and on his own initiative.
 
-<br>
+1.6. The administration does not check the accuracy of the data provided and the User has the necessary consent to process them in accordance with this Policy, believing that the User acts in good faith, prudently and makes all necessary efforts to keep such information up-to-date and obtain all the necessary consents for its use. ...
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+1.7. You acknowledge and accept the possibility of using third-party software on the Site, as a result of which such persons can receive and transmit the data specified in clause 1.3 in an impersonal form.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+**Example!** The specified third-party software includes the visit statistics collection systems Google Analytics and Yandex.Metrica.
+1.8. The composition and conditions for collecting anonymized data using third-party software are determined directly by their copyright holders and may include:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+- browser data (type, version, cookie);
+- device data and location;
+- operating system data (type, version, screen resolution);
+- request data (time, referral source, IP address).
+
+1.9. The Administration is not responsible for the procedure for using the Anonymized User Data by third parties.
+
+
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 2. Purposes of data processing
+2.1. The administration uses the data for the following purposes:
+
+2.1.1. Processing incoming requests and communication with the User;
+
+2.1.2. Information services, including the distribution of advertising and information materials;
+
+2.1.3. Marketing, statistical and other research;
+
+2.1.4. Targeting advertising materials on the Site.
+
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 3. Data protection requirements
+3.1. The administration stores data and ensures their protection from unauthorized access and distribution in accordance with internal rules and regulations.
+
+3.2. With regard to the data received, confidentiality is maintained, except for cases when they are made publicly available by the User, as well as when the technologies and software of third parties used on the Site or the settings of the software used by the User provide for an open exchange with these persons and / or other participants and users of the Internet. ...
+
+3.3. In order to improve the quality of work, the Administration has the right to store log files about actions performed by the User as part of the use of the Site for 1 (One) year.
+
+<br>
+
+## 4. Data transmission
+4.1. The administration has the right to transfer data to third parties in the following cases:
+
+- The User has expressed his consent to such actions, including cases when the User applies the settings of the software used, which do not limit the provision of certain information;
+- The transfer is necessary as part of the User's use of the functionality of the Site;
+- The transfer is required in accordance with the purposes of the data processing;
+- In connection with the transfer of the Site to the possession, use or property of such a third party;
+- At the request of a court or other authorized state body within the framework of the procedure established by law;
+-   To protect the rights and legitimate interests of the Administration in connection with the violations committed by the User.
+<br>
+
+## 5. Changes to the Privacy Policy
+5.1. This Policy can be changed or terminated by the Administration unilaterally without prior notice to the User. The new version of the Policy comes into force from the moment it is posted on the Site, unless otherwise provided by the new version of the Policy.
+
+5.2. The current version of the Policy is located on the Site on the Internet at the address 

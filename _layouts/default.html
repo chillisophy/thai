@@ -35,26 +35,27 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                            <img class="appIconLarge" src="{{ site.app_icon | relative_url }}">
+                            <img class="appIconLarge" src="{{ site.app_icon }}/soap.jpg">
                         </div>
                         <div class="appNamePriceContainer">
                             <h1 class="appName">
-                                {{ site.app_name }}
+                               Natural Elite Soap
                             </h1>
-                            <h2 class="appPrice">
-                                {{ site.app_price }}
+                            <h1 class="appPrice">
+                                THB 999
+
                             </h2>
                         </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
-                                {{ site.app_description }}
+                               ONLY NATURAL COMPONENTS
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
-                                <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
+                                <a class="playStoreLink" href="https://t.me/soaphi"><img class="playStore" src="assets/appstore.png"></a>
                             {% endif %}
-                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
+                            <a class="appStoreLink" href="https://t.me/soaphi"><img class="appStore" src="assets/appstore.png"></a>
                         </div>
                     </div>
                     {% include features.html %}

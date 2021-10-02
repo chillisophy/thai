@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: มีอะไรใหม่
 include_in_header: true
 ---
 
