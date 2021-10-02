@@ -72,10 +72,21 @@ features                                  :
     description                           : A touch of tart effect สัมผัสของทาร์ตเอฟเฟกต์
     fontawesome_icon_name                 : tree
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+# Comment Settings 
+comments                                  :
 
+  - title                                 : Mary
+    description                           : I fell in love with this soap when I tried it for the first time.
+    app_image                             : img/mary.png
+
+    
+  - title                                 : Lena
+    description                           : Tried to wash my hair. An excellent tool. Thank you for such a gift!
+    app_image                             : img/lena.png
+
+  - title                                 : Jirawan
+    description                           : ฉันชอบมัน. ไม่เคยลองมาก่อน วัตถุดิบคุณภาพสูงมาก
+    app_image                             : img/jira.png
 
 
 # Theme Settings
@@ -110,8 +121,11 @@ footer_text_color                         : "#666666"
 
 
 
-
-
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
 
 
 

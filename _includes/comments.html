@@ -1,0 +1,24 @@
+<div class="features">
+
+    {% for comment in site.comments %}
+    {% if comment.title %}
+    <div class="feature" style="background-color: rgb(245, 240, 247); padding-top: 2rem">
+        <div>
+          <img class="appIconLarge" src="{{ comment.app_image }}" alt="">
+        </div>
+        <div class="featureText">
+            <h3>
+                {{ comment.title }}
+            </h3>
+            <p>
+                {{ comment.description }}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>
+
+
