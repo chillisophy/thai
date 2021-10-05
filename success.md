@@ -2,6 +2,7 @@
 layout: page
 title: Success Payment
 include_in_header: false
+include_in_footer: false
 ---
 
 
