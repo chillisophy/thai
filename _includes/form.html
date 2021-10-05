@@ -1,0 +1,72 @@
+<div class="field">
+    <label class="label">Name / ชื่อของคุณ</label>
+    <div class="control">
+      <input class="input" type="text" placeholder="Name">
+    </div>
+  </div>
+  
+  <div class="field">
+    <label class="label">Email</label>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-success" type="email" placeholder="Email" value="">
+      <span class="icon is-small is-left">
+        <i class="fas fa-envelope"></i>
+      </span>
+      <span class="icon is-small is-right">
+        <i class="fas fa-exclamation-triangle"></i>
+      </span>
+    </div>
+  </div>
+  
+  <div class="field">
+    <label class="label">Shipping Address / ที่อยู่จัดส่ง</label>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-success" type="address" placeholder="Address" value="">
+      <span class="icon is-small is-left">
+        <i class="fa fa-address-card"></i>
+      </span>
+      <span class="icon is-small is-right">
+        <i class="fas fa-exclamation-triangle"></i>
+      </span>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">Phone Number /หมายเลขโทรศัพท์</label>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-success" type="address" placeholder="Phone" value="">
+      <span class="icon is-small is-left">
+        <i class="fa fa-phone"></i>
+      </span>
+      <span class="icon is-small is-right">
+        <i class="fas fa-exclamation-triangle"></i>
+      </span>
+    </div>
+  </div>
+  
+  
+  <div class="field">
+    <label class="label">Message / ข้อความ</label>
+    <div class="control">
+      <textarea class="textarea" placeholder="Textarea"></textarea>
+    </div>
+  </div>
+  
+  <div class="field">
+    <div class="control">
+      <label class="checkbox">
+        <input type="checkbox">
+        I agree to the <a href="{{ site.baseurl }}/privacypolicy/">terms and conditions</a>
+      </label>
+    </div>
+  </div>
+
+
+
+  <div class="container" style="padding-top: 1em ;">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="KQ2JG77UK4CWN">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG_global.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    </div>

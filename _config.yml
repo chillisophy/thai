@@ -155,3 +155,5 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+theme: bulma-clean-theme
